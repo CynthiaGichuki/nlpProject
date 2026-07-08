@@ -16,7 +16,7 @@ Coursework notebooks exploring transformer-based NLP models, including fine-tuni
 
 - Python 3.x
 - Jupyter Notebook
-- `transformers`, `torch`, `datasets` (install via `pip install -r requirements.txt` if provided)
+- `transformers`, `torch`, `datasets`...
 
 ## Usage
 
